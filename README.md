@@ -13,3 +13,4 @@ Actualmente estoy estudiando en Cuetrovientos que es un colegio concertado, me e
 - Java
 - Html
 - Css
+Me gusta la programación pero me esta costando un poco, aún asi no voy a perder el interes.
